@@ -1,0 +1,6 @@
+.ireland{
+    width: 300px;
+    height: 200px;
+    border: 2px solid #ccc;
+    background-image: linear-gradient(to right, #009b48 33%, #ffffff 33%, #ffffff 66%, #ff7900 66%);
+}

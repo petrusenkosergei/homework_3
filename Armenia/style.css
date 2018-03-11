@@ -1,0 +1,6 @@
+.armenia{
+    width: 300px;
+    height: 200px;
+    border: 2px solid #ccc;
+    background-image: linear-gradient(to bottom, #ff0000 33%, #0000ad 33%, #0000ad 66%, #ff9e00 66%);
+}

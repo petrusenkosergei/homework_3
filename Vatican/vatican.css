@@ -1,0 +1,12 @@
+.vatican{
+    width: 300px;
+    height: 200px;
+    border: 2px solid #ccc;
+    background-image: linear-gradient(to right, #ffe000 50%, #ffffff 50%);
+}
+.gerb_vatican{
+    margin-top: 40px;
+    margin-left: 165px;
+    width: 120px;
+    height: 120px;
+}

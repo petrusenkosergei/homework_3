@@ -1,0 +1,14 @@
+.canada{
+    width: 300px;
+    height: 200px;
+    border: 2px solid #ccc;
+    background-image: linear-gradient(to right, #ff0000 27%, #ffffff 27%, #ffffff 73%, #ff0000 73%);
+}
+.gerb_canada{
+    margin-top: 50px;
+    margin-left: 90px;
+    width: 120px;
+    height: 120px;
+}
+
+

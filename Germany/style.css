@@ -1,0 +1,12 @@
+.germany {
+    width: 300px;
+    height: 200px;
+    border: 2px solid #ccc;
+    background-image: linear-gradient(to bottom, #000000 33%, #ed3324 33%, #ed3324 66%, #ffce00 66%);
+}
+.germany:hover{
+    width: 300px;
+    height: 200px;
+    border: 2px solid #ccc;
+    background-image: linear-gradient(to bottom, #ff0000 33%, #0000ad 33%, #0000ad 66%, #ff9e00 66%);
+}

@@ -1,0 +1,28 @@
+@import url('../Ireland/style.css');
+@import url('../Japan/style.css');
+@import url('../Congo/style.css');
+@import url('../Armenia/style.css');
+@import url('../Canada/style.css');
+@import url('../Botswana/style.css');
+@import url('../Mauritius/style.css');
+@import url('../Vatican/vatican.css');
+@import url('../Germany/style.css');
+
+.name {
+    visibility: hidden;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+.flag {
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    display: block;
+    transition: all 0.5s ease-in-out;
+}
+
+.flag:hover+div{
+    visibility: visible;
+}
